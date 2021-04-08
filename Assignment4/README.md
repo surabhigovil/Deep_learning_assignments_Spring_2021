@@ -11,6 +11,6 @@ The assignment consists of building a feed forward neural network using Numpy an
 
 
 
-# Referneces:
+# References:
  1. https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6
  2. https://machinelearningmastery.com/image-augmentation-deep-learning-keras/
