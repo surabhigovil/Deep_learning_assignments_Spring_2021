@@ -3,7 +3,8 @@ The assignment consists of building a feed forward neural network using Numpy an
 1. Numpy:
    1. Build a 3 layer neural networks.
    2. Used Mini batch gradient descent 
-   3. Activation layer of RELU and dropout of 0.45 used 
+   3. Activation layer of RELU and dropout of 0.50 used 
+   4. Data sugmntation using datagen to improve accuracy
     
 3. Keras:
    1. Model using static learning rate and Adaptive learning rate.
