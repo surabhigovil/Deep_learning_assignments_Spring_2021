@@ -2,4 +2,4 @@
 
 Medium Article Link: https://surabhigovil1.medium.com/embedding-high-level-priors-in-deep-cnn-loss-function-for-highly-optimized-medical-image-4a59aea530f6
 
-Slideshare Link:
+Slideshare Link: https://www.slideshare.net/surabhi_1/high-level-priors-at-loss-function-level-for-effective-image-segmentation-using-cnn
